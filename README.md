@@ -84,10 +84,14 @@ python api.py
 ```
 
 ## ⚡️ 安装
+```shell
+git clone https://github.com/StudentTYH/Local-Real-Time-Chat
+```
+
 
 ### 前端安装
 ```shell
-cd ./LRTChat/front/web
+cd ./Local-Real-Time-Chat/front/web
 pnpm install
 pnpm dev
 ```
@@ -106,7 +110,7 @@ API Key: devkey
 API Secret: secret
 
 ```shell
-cd ./LRTChat/Backend
+cd ./Local-Real-Time-Chat/Backend
 conda activate -n livekit_env python=3.10
 pip install -r requirements.txt
 python main.py dev
@@ -114,9 +118,13 @@ python main.py dev
 
 ### 后端
 ```shell
-cd ./LRTChat/Backend
+cd ./Local-Real-Time-Chat/Backend
 python server.py
 ```
 
 ### 填入.env
-最终，把所有的本地api接口按照要求填入   ./LRTChat/Backend/.env
+最终，把所有的本地api接口按照要求填入   
+
+./Local-Real-Time-Chat/Backend/.env
+
+./Local-Real-Time-Chat/front/web/.env.local
