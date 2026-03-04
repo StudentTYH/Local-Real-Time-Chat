@@ -4,6 +4,8 @@
 
 完全本地化的实时流对话系统<br/>
 
+[![视频封面](./images/image.png)](./images/demo_video.mp4)
+
 ![alt text](./images/image.png)
 
 
