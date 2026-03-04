@@ -4,7 +4,7 @@
 
 完全本地化的实时流对话系统<br/>
 
-[点击观看视频](./images/demo_video.mp4)
+[点击下载并观看视频](./images/demo_video.mp4)
 
 ![alt text](./images/image.png)
 
